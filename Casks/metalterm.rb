@@ -1,6 +1,6 @@
 cask "metalterm" do
-  version "0.1.5"
-  sha256 "a71e813f4422edbca92bda18c6039f83c18a31474314d7b03c4109085494b50f"
+  version "0.1.6"
+  sha256 "ac9017e638cc837fe9448e6591ca760580be4ffe3f93f671af709afb684f4ca9"
 
   url "https://github.com/pioner92/metalterm-site/releases/download/downloads/Metalterm-#{version}.dmg",
       verified: "github.com/pioner92/metalterm-site/"
