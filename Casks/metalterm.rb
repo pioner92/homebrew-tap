@@ -1,9 +1,8 @@
 cask "metalterm" do
-  version "0.1.8"
-  sha256 "6819d22d9ba07e14975a35a48a0c11616b31ff2b841779f453b22c0ccb42cdab"
+  version "0.1.9"
+  sha256 "dc3a60e5e9737a94638acdb7bdbed7f8da390acc1c900e099f51422455e2eb9c"
 
-  url "https://github.com/pioner92/metalterm-site/releases/download/downloads/Metalterm-#{version}.dmg",
-      verified: "github.com/pioner92/metalterm-site/"
+  url "https://github.com/pioner92/metalterm-site/releases/download/downloads/Metalterm-#{version}.dmg"
   name "Metalterm"
   desc "GPU-rendered terminal for macOS"
   homepage "https://metalterm.dev"
